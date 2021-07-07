@@ -8,7 +8,7 @@
 
 💡 Hashtag that describes me #DevOps
 
-💡 Knowledge on Aws solution architect Likewise:Amazon Ec2,Amazon S3,IAM,Amazon RDS,Key Pair, Security Group,Load balancer,Amazon Cluster,Aws CLI
+💡 Knowledge on Aws solution architect Likewise:Amazon Ec2,Amazon S3,IAM,Amazon RDS,Key Pair, Security Group,Load balancer,Amazon Cluster,Aws CLI,CD Pipeline in AWS
 
 💡 Knowledge on Ansible,Chef,Puppet,Docker,Kubernetes,Git,GitHub,Jenkins
 
