@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🏢 I’m currently working in Saaspect as DevOps Intern
+🏢 I’m currently working in Artenal as Aws cloud and DevOps Intern
+
+🏢 I completed internship in Saaspect as DevOps Engineer
 
 🧾 I'm pursuing my degree from Reva University
 
