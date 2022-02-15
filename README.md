@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏢 I’m currently working in Artenal as Aws cloud and DevOps Intern
+🏢 I’m currently working in GeekyAnts as  DevOps Engineer
 
 🏢 I completed internship in Saaspect as DevOps Engineer
 
