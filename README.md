@@ -4,7 +4,7 @@
 
 🏢 I completed internship in Saaspect as DevOps Engineer
 
-🧾 I'm pursuing my degree from Reva University
+🧾 I've completed my degree from Reva University
 
 🌱 I’m currently working on Setting up Jenkins 
 
