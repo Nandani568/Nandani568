@@ -1,58 +1,102 @@
-### Hi there 👋
+# Hi there 👋
 
-🏢 I’m currently working in GeekyAnts as  DevOps Engineer
+### 🚀 Career Objective
+A dynamic and results-oriented DevOps Engineer with over 3 years of hands-on experience, seeking a Senior DevOps Engineer role to drive automation and cloud transformation. Armed with a solid foundation in cloud architecture and an extensive toolkit of DevOps tools, I am eager to innovate and contribute meaningfully to a company’s success by elevating operational efficiency and reliability.
 
-🏢 I completed internship in Saaspect as DevOps Engineer
+---
 
-🧾 I've completed my degree from Reva University
+## 👔 Professional Experience
 
-🌱 I’m currently working on Setting up Jenkins 
+**GeekyAnts: DevOps Engineer-II**  
+*Sep 2023 - Present*  
+- Delivered proof-of-concept projects for application monitoring using **EFK (Elasticsearch, Fluentd, Kibana)** and **Dapr sidecars** in Docker Swarm and Kubernetes, demonstrating expertise in **Docker** and **Ansible**.
+- Collaborated with a UK-based healthcare client, implementing secure deployment solutions with **Azure Healthcare Workspace** for SFTP and FHIR services.
 
-💡 Hashtag that describes me #DevOps
+**GeekyAnts: Software Engineer in Platform-I**  
+*Sep 2022 - Aug 2023*  
+- Designed and managed **CI/CD pipelines** for multiple client projects, automating end-to-end deployment for seamless and reliable delivery.
 
-💡 Knowledge on Aws solution architect Likewise:Amazon Ec2,Amazon S3,IAM,Amazon RDS,Key Pair, Security Group,Load balancer,Amazon Cluster,Aws CLI,CD Pipeline in AWS
+**GeekyAnts: Software Trainee Engineer**  
+*Feb 2022 - Aug 2022*  
+- Gained foundational experience in DevOps automation, working closely with teams on projects requiring configuration management and deployment workflows.
 
-💡 Knowledge on Ansible,Chef,Puppet,Docker,Kubernetes,Git,GitHub,Jenkins
+**SAASPECT: DevOps Engineer (Intern)**  
+*Jul 2021 - Sep 2021*  
+- Worked extensively on both **Azure** and **AWS** platforms, leveraging scripting, **AWS CLI**, and **CI/CD** pipelines to automate deployments.
 
-💡 Knowledge on Linux 
+---
 
-💡 Knowledge on C programming, Python
+## 🔨 Key Projects & Contributions
 
-💡 Knowledge on OS: Ubuntu, centos,Exsi
+- **Name-based Virtual Hosting**: Researched and implemented name-based virtual hosting with **Apache** and **Nginx** to enable multi-site hosting on a single server.
+- **Log Aggregation with EFK and Fluentd/TD-agent**: Specialized in log aggregation and centralized data visualization, optimizing the EFK stack for high-throughput environments.
+- **Dapr Sidecar for Microservices in Docker Swarm**: Enabled seamless service-to-service communication and state management within microservices using **Dapr**.
+- **Azure SFTP to Blob Gateway**: Established a secure SFTP to Azure Blob solution, automating backups and streamlining data transfers.
+- **Automated PostgreSQL Master-Slave Replication**: Used **Ansible** to automate PostgreSQL replication setup with **Pgpool-II**, enhancing scalability and operational efficiency.
 
-💡 Knowledge on server Apache,Nginx,Mysql,Httpd,Wordpress,Tomcat
+**Published Blogs**: Grafana with InfluxDB, Puppet Configuration Management, Amazon ECR, among others.
 
-💬 Ask me about DevOps Tools and Practices
+---
 
-📫 You can reach me at nandanisah35@gmail.com
+## 🛠️ Technical Skills
 
-🧾 Certifications I have Accomplished
+**DevOps & CI/CD Tools**  
+- Configuration: **Ansible**, **Chef**, **Puppet**, **Terraform**
+- Containerization: **Kubernetes**, **Docker**, **K3s**, **Docker Swarm**
+- Source Management: **Git**, **GitHub**, **Bitbucket**, **GitLab**
+- CI/CD: **Jenkins**, **Circle CI**, **Travis CI**, **GitLab CI/CD**, **Azure DevOps**, **AWS Pipeline**
 
-🎖NPTEL(Relational Database Management System)
+**Platforms & Operating Systems**  
+- **Linux**, **Ubuntu**, **CentOS**, **Unix**, **Windows** (7/10), **ESXi**, **Rocky Linux**, Virtualization, Bare Metals
 
-🎖https://drive.google.com/file/d/1p3u7vtKx8jwviCWsS8fQ6uW3MJw2jWSP/view?usp=drivesdk
+**Database Management**  
+- **MySQL**, **RDBMS**, **Minio**, **Redis**, **Azure SQL**, **CosmosDB**
 
-🎖Microsoft Technology Associate (Python)[17october,2019]
+**Cloud Expertise**  
+- **Azure Cloud**: VMs, Functions, App Services, Azure SQL with Master-Slave Failover, Blob Storage, CosmosDB, DataFactory, Healthcare Workspace
+- **AWS**: EC2, S3, IAM, RDS, VPC, DynamoDB, ECS, CloudWatch, and AWS CLI
 
-🎖https://drive.google.com/file/d/1p4cF6XoIMoXhncKBthu5NvoNQYfHV2hN/view?usp=drivesdk
+**Web & Application Servers**  
+- **Apache**, **Nginx**, **MySQL**, **Tomcat**, **WordPress**
 
-⚡ Fun fact We guys automate stuffs
+**Network & Security**  
+- OSI Model, TCP/IP, FTP, SMTP, **Azure Firewall**, server hardening techniques
 
-⚡ Fun fact love to listen music and Explore (new people and places)
+**Scripting & Development**  
+- **HTML/CSS**, **Bootstrap**, **Python**, **Bash Scripting**
 
-📫[Linkdin]:https://www.linkedin.com/in/nandani-sah-5a46b31b3
+**Monitoring & Logging Tools**  
+- **EFK Stack (Elasticsearch, Fluentd, Kibana)**, **Nagios**, **Zabbix**, **Grafana**, **Uptime Kuma**, **Prometheus**, **Telegraf**
 
-<!--
-**Nandani568/Nandani568** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Specialized Tools**  
+- Dapr Sidecar Injection, **HIPAA-compliant Vaults and Password Management**, OpenStack, **OpenNebula**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education & Certifications
+
+**BSc in Cloud Computing and Big Data**  
+*REVA University*, Bangalore, Karnataka - CGPA: 8.53  
+- Specialized in Cloud Computing and Big Data with a passion for DevOps and automation.
+
+### Certifications
+- **NPTEL** - Introduction to Database System  
+- **Microsoft Technology Associate** - Introduction to Programming using Python  
+- **Star Certification** - AI and ML for Business Application  
+- **HIPAA** - Health Insurance Portability and Accountability Act  
+- **AZ-900** - Azure Fundamentals  
+- **Azure Security Fundamentals**
+
+---
+
+## 💪 Key Strengths
+- Strong communication skills, a team player, goal-oriented, motivated, and a quick learner.
+
+---
+
+## 🌐 Languages
+- English, Hindi, Nepali
+
+---
+
+*For inquiries or to discuss DevOps innovations, connect with me on [LinkedIn](https://www.linkedin.com/in/nandani-sah-5a46b31b3).* 
