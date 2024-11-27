@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 🚀 Career Objective
-A dynamic and results-oriented DevOps Engineer with over 3 years of hands-on experience, seeking a Senior DevOps Engineer role to drive automation and cloud transformation. Armed with solid foundation in cloud architecture and an extensive toolkit of DevOps tools, I am eager to innovate and contribute meaningfully to a company’s success by elevating operational efficiency and reliability.
+A dynamic and results-oriented DevOps Engineer with over 3 years of hands-on experience, seeking a Senior DevOps Engineer role to drive automation and cloud transformation. Armed with a solid foundation in cloud architecture and an extensive toolkit of DevOps tools, I am eager to innovate and contribute meaningfully to a company’s success by elevating operational efficiency and reliability.
 
 ---
 
