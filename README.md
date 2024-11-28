@@ -8,7 +8,7 @@ A dynamic and results-oriented DevOps Engineer with over 3 years of hands-on exp
 ## 👔 Professional Experience 
  
 **GeekyAnts: DevOps Engineer- II**   
-*Sep 2023 - Present*  
+*Sep 2023 - Present*   
 - Delivered proof-of-concept projects for application monitoring using **EFK (Elasticsearch, Fluentd, Kibana)** and **Dapr sidecars** in Docker Swarm and Kubernetes, demonstrating expertise in **Docker** and **Ansible**.
 - Collaborated with a UK-based healthcare client, implementing secure deployment solutions with **Azure Healthcare Workspace** for SFTP and FHIR services.
 
